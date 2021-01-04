@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5BFEFAC9-B4F3-4DCE-A126-D45511AD9DF2}</ProjectGuid>
-    <RootNamespace>fifo</RootNamespace>
+    <ProjectGuid>{08453FB0-2CC1-424C-B704-20B14060C7B5}</ProjectGuid>
+    <RootNamespace>frok</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
