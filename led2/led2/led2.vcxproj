@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{08453FB0-2CC1-424C-B704-20B14060C7B5}</ProjectGuid>
-    <RootNamespace>frok</RootNamespace>
+    <ProjectGuid>{30955C40-F6C7-417B-A239-2D7D172645D3}</ProjectGuid>
+    <RootNamespace>led2</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
