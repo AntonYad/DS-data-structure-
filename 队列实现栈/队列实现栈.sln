@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栈", "栈\栈.vcxproj", "{8793D111-289C-4EC6-A6F2-049F06FE41BB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "队列实现栈", "队列实现栈\队列实现栈.vcxproj", "{37708D72-43F2-49C0-AC54-733004986749}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8793D111-289C-4EC6-A6F2-049F06FE41BB}.Debug|Win32.ActiveCfg = Debug|Win32
-		{8793D111-289C-4EC6-A6F2-049F06FE41BB}.Debug|Win32.Build.0 = Debug|Win32
-		{8793D111-289C-4EC6-A6F2-049F06FE41BB}.Release|Win32.ActiveCfg = Release|Win32
-		{8793D111-289C-4EC6-A6F2-049F06FE41BB}.Release|Win32.Build.0 = Release|Win32
+		{37708D72-43F2-49C0-AC54-733004986749}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37708D72-43F2-49C0-AC54-733004986749}.Debug|Win32.Build.0 = Debug|Win32
+		{37708D72-43F2-49C0-AC54-733004986749}.Release|Win32.ActiveCfg = Release|Win32
+		{37708D72-43F2-49C0-AC54-733004986749}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4C7560BF-88B5-45DB-8FE1-C7DE737D833F}</ProjectGuid>
-    <RootNamespace>队列</RootNamespace>
+    <ProjectGuid>{37708D72-43F2-49C0-AC54-733004986749}</ProjectGuid>
+    <RootNamespace>队列实现栈</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
