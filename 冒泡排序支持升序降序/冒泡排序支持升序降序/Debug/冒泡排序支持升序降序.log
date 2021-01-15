@@ -1,0 +1,10 @@
+﻿生成启动时间为 2020/10/28 11:29:10。
+     1>项目“D:\2020_code\冒泡排序支持升序降序\冒泡排序支持升序降序\冒泡排序支持升序降序.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2020_code\冒泡排序支持升序降序\Debug\冒泡排序支持升序降序.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\2020_code\冒泡排序支持升序降序\Debug\冒泡排序支持升序降序.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2020_code\冒泡排序支持升序降序\Debug\冒泡排序支持升序降序.lib" /MACHINE:X86 "Debug\冒泡排序支持升序降序.obj"
+         冒泡排序支持升序降序.vcxproj -> D:\2020_code\冒泡排序支持升序降序\Debug\冒泡排序支持升序降序.exe
+     1>已完成生成项目“D:\2020_code\冒泡排序支持升序降序\冒泡排序支持升序降序\冒泡排序支持升序降序.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.22
