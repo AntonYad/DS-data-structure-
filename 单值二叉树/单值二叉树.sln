@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "双向链表", "双向链表\双向链表.vcxproj", "{826B8BCF-9BBA-4841-A991-0DDA07CE3059}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单值二叉树", "单值二叉树\单值二叉树.vcxproj", "{732F7A7D-47BD-4FC0-9E11-5697E47BFA0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{826B8BCF-9BBA-4841-A991-0DDA07CE3059}.Debug|Win32.ActiveCfg = Debug|Win32
-		{826B8BCF-9BBA-4841-A991-0DDA07CE3059}.Debug|Win32.Build.0 = Debug|Win32
-		{826B8BCF-9BBA-4841-A991-0DDA07CE3059}.Release|Win32.ActiveCfg = Release|Win32
-		{826B8BCF-9BBA-4841-A991-0DDA07CE3059}.Release|Win32.Build.0 = Release|Win32
+		{732F7A7D-47BD-4FC0-9E11-5697E47BFA0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{732F7A7D-47BD-4FC0-9E11-5697E47BFA0C}.Debug|Win32.Build.0 = Debug|Win32
+		{732F7A7D-47BD-4FC0-9E11-5697E47BFA0C}.Release|Win32.ActiveCfg = Release|Win32
+		{732F7A7D-47BD-4FC0-9E11-5697E47BFA0C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
