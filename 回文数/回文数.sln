@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTree", "BinaryTree\BinaryTree.vcxproj", "{DED918BE-C7E7-405A-B1D2-0F11EBA584BE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "回文数", "回文数\回文数.vcxproj", "{37248A32-31B4-48D9-BC4E-AE1F1F315EDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DED918BE-C7E7-405A-B1D2-0F11EBA584BE}.Debug|Win32.ActiveCfg = Debug|Win32
-		{DED918BE-C7E7-405A-B1D2-0F11EBA584BE}.Debug|Win32.Build.0 = Debug|Win32
-		{DED918BE-C7E7-405A-B1D2-0F11EBA584BE}.Release|Win32.ActiveCfg = Release|Win32
-		{DED918BE-C7E7-405A-B1D2-0F11EBA584BE}.Release|Win32.Build.0 = Release|Win32
+		{37248A32-31B4-48D9-BC4E-AE1F1F315EDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37248A32-31B4-48D9-BC4E-AE1F1F315EDE}.Debug|Win32.Build.0 = Debug|Win32
+		{37248A32-31B4-48D9-BC4E-AE1F1F315EDE}.Release|Win32.ActiveCfg = Release|Win32
+		{37248A32-31B4-48D9-BC4E-AE1F1F315EDE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
