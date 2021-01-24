@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FA969EAB-59E4-40B1-9D60-AC8013135CAE}</ProjectGuid>
-    <RootNamespace>排序数组</RootNamespace>
+    <ProjectGuid>{60C05CA3-8B39-4366-BA45-9AEB8FCE75BA}</ProjectGuid>
+    <RootNamespace>赎金信</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
