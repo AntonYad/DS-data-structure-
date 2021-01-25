@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{90E886DF-18B1-410B-A95E-A93DB1173BF1}</ProjectGuid>
-    <RootNamespace>平衡二叉树</RootNamespace>
+    <ProjectGuid>{16D26669-F9AB-4172-9C28-B6BDC45051AC}</ProjectGuid>
+    <RootNamespace>最后一个单词长度</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

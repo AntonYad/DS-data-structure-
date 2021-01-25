@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "平衡二叉树", "平衡二叉树\平衡二叉树.vcxproj", "{90E886DF-18B1-410B-A95E-A93DB1173BF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最后一个单词长度", "最后一个单词长度\最后一个单词长度.vcxproj", "{16D26669-F9AB-4172-9C28-B6BDC45051AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90E886DF-18B1-410B-A95E-A93DB1173BF1}.Debug|Win32.ActiveCfg = Debug|Win32
-		{90E886DF-18B1-410B-A95E-A93DB1173BF1}.Debug|Win32.Build.0 = Debug|Win32
-		{90E886DF-18B1-410B-A95E-A93DB1173BF1}.Release|Win32.ActiveCfg = Release|Win32
-		{90E886DF-18B1-410B-A95E-A93DB1173BF1}.Release|Win32.Build.0 = Release|Win32
+		{16D26669-F9AB-4172-9C28-B6BDC45051AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16D26669-F9AB-4172-9C28-B6BDC45051AC}.Debug|Win32.Build.0 = Debug|Win32
+		{16D26669-F9AB-4172-9C28-B6BDC45051AC}.Release|Win32.ActiveCfg = Release|Win32
+		{16D26669-F9AB-4172-9C28-B6BDC45051AC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
