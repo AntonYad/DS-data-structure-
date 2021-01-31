@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/1/24 22:53:14。
+     1>项目“D:\2021Code\俄罗斯方块\俄罗斯方块\俄罗斯方块.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(104): error C2059: 语法错误:“数字上的错误后缀”
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(104): error C2146: 语法错误: 缺少“)”(在标识符“ms”的前面)
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(104): error C2784: “void std::this_thread::sleep_for(const std::chrono::duration<_Rep,_Period> &)”: 未能从“int”为“const std::chrono::duration<_Rep,_Period> &”推导 模板 参数
+                 d:\vs2013\vc\include\thread(159) : 参见“std::this_thread::sleep_for”的声明
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(104): error C2059: 语法错误:“)”
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(190): error C2059: 语法错误:“数字上的错误后缀”
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(190): error C2146: 语法错误: 缺少“)”(在标识符“ms”的前面)
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(190): error C2784: “void std::this_thread::sleep_for(const std::chrono::duration<_Rep,_Period> &)”: 未能从“int”为“const std::chrono::duration<_Rep,_Period> &”推导 模板 参数
+                 d:\vs2013\vc\include\thread(159) : 参见“std::this_thread::sleep_for”的声明
+     1>d:\2021code\俄罗斯方块\俄罗斯方块\source.cpp(190): error C2059: 语法错误:“)”
+     1>已完成生成项目“D:\2021Code\俄罗斯方块\俄罗斯方块\俄罗斯方块.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.19
